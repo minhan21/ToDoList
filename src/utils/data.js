@@ -1,0 +1,38 @@
+export const TODOLIST = [
+  {
+    id: 'TASK01',
+    taskName: 'Task name 1',
+    description: 'Task Description',
+    time: '7:00',
+    date: '21/11/2022',
+    priority: 'high',
+    isComplete: false,
+  },
+  {
+    id: 'TASK02',
+    taskName: 'Task name 2',
+    description: 'Task Description',
+    time: '7:00',
+    date: '21/11/2022',
+    priority: 'highest',
+    isComplete: true,
+  },
+  {
+    id: 'TASK03',
+    taskName: 'Task name 3',
+    description: 'Task Description',
+    time: '7:00',
+    date: '21/11/2022',
+    priority: 'low',
+    isComplete: true,
+  },
+  {
+    id: 'TASK04',
+    taskName: 'Task name 4',
+    description: 'Task Description',
+    time: '7:00',
+    date: '21/11/2022',
+    priority: 'medium',
+    isComplete: false,
+  },
+];
